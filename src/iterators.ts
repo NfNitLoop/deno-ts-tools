@@ -1,0 +1,1 @@
+export { lazy, range } from "https://deno.land/x/better_iterators@v1.0.0/mod.ts"
